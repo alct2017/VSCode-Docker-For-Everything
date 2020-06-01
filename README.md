@@ -1,8 +1,6 @@
 # VSCode-Docker-For-Everything
 用VSCode+Docker构建所有语言的开发环境。
 
-[toc]
-
 ## Why VSCode+Docker?
 我使用VSCode+Docker是为了方便管理各种语言的开发环境。
 
